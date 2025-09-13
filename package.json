@@ -1,7 +1,7 @@
 {
   "name": "nishat_b",
   "version": "0.0.0",
-  "homepage": "https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO",
+  "homepage": "https://github.com/NelsonJhangi/nishat_b",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
